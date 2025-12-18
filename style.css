@@ -1,3 +1,11 @@
-.container{
+.container {
     border: 1px solid red;
-    
+}
+
+.col{
+    border: solid 1px blue;
+}
+
+.bg-warning {
+    background-color: pink;
+}
